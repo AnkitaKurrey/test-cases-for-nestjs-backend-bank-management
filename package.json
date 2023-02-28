@@ -1,0 +1,8 @@
+{"scripts": {
+  "test": "cucumber-js"
+},
+  "dependencies": {
+    "@cucumber/cucumber": "^8.11.1",
+    "apickli": "^3.0.2"
+  }
+}
